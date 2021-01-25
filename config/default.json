@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "DULOV",
+  "mongoUri": "mongodb+srv://du1ov:ur25troi!@cluster0.fifc6.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
